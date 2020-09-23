@@ -1,6 +1,6 @@
 # Base Ruby
 
-This is an empty project for you to create an run Ruby files.
+This is an empty project for you to create and run Ruby files.
 
 Run your Ruby file by typing `ruby ` and then the name of the file you want to run in the Terminal.
 
