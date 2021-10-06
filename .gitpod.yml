@@ -12,3 +12,6 @@ vscode:
   extensions:
     - shd101wyy.markdown-preview-enhanced
     - wingrunr21.vscode-ruby
+github:
+  prebuilds:
+    master: true
