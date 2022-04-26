@@ -1,4 +1,8 @@
-image: jelaniwoods/appdev2022-base-ruby-k
+image: jelaniwoods/appdev2022-base-ruby
+
+tasks:
+  - before: |
+      bin/setup
 
 ports:
   - port: 3000
